@@ -1,0 +1,15 @@
+PHP Reverse Shell:
+
+The PHP Reverse Shell is a simple script that provides a reverse shell functionality in PHP. 
+A reverse shell allows an attacker to gain remote access to a target system by connecting back to a listening shell on the attacker's machine. 
+
+Features
+
+- Simple and lightweight PHP script for reverse shell functionality.
+- I used a simple loop, making the code easier to follow.
+- I used a fixed buffer size (2048 bytes) for reading and writing data, as it's sufficient for most reverse shell interactions.
+
+⚠️ Disclaimer: 
+
+This tool is provided for educational and legal purposes only. Use this script responsibly and only on systems you own or have explicit permission to access. 
+Unauthorized use of this script to gain access to systems is illegal and unethical. The author is not responsible for any misuse or damage caused by this tool.
